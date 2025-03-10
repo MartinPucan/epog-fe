@@ -1,2 +1,2 @@
-# epog-fe
+# EPOG FE
 EPOG FE Best Practices
